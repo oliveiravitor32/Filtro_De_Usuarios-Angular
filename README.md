@@ -1,4 +1,9 @@
-# ListaDeUsuarios
+# Filtro de lista de usuários
+
+Projeto desenvolvido com Angular 17 durante o Curso de Angular 17 de Felipe da Silva Freitas (https://www.linkedin.com/in/felipefreitas97/)
+
+Características: Este projeto tem como base de ensino tratar os pontos principais no momento de lidar com dados no template utilizando as melhores práticas de diretivas, bindings, pipes e estilização, também instrui sobre uma melhor organização de arquivos em um projeto com Angular.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
