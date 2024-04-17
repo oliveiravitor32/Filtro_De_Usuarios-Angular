@@ -1,7 +1,7 @@
 # Filtro de lista de usuários
 
 - Projeto desenvolvido com Angular 17 durante o Curso de Angular 17 de Felipe da Silva Freitas (https://www.linkedin.com/in/felipefreitas97/)
-:bulb: Este projeto tem como base de ensino tratar os pontos principais no momento de lidar com dados no template utilizando as melhores práticas de diretivas, bindings, pipes e estilização, também instrui sobre uma melhor organização de arquivos em um projeto com Angular.
+- :bulb: Este projeto tem como base de ensino tratar os pontos principais no momento de lidar com dados no template utilizando as melhores práticas de diretivas, bindings, pipes e estilização, também instrui sobre uma melhor organização de arquivos em um projeto com Angular.
 
 ## :books: Características
 - Organização de projeto
