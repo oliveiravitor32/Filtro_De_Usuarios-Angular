@@ -1,15 +1,20 @@
 # Filtro de lista de usuários
 
-Projeto desenvolvido com Angular 17 durante o Curso de Angular 17 de Felipe da Silva Freitas (https://www.linkedin.com/in/felipefreitas97/)
+- Projeto desenvolvido com Angular 17 durante o Curso de Angular 17 de Felipe da Silva Freitas (https://www.linkedin.com/in/felipefreitas97/)
+:bulb: Este projeto tem como base de ensino tratar os pontos principais no momento de lidar com dados no template utilizando as melhores práticas de diretivas, bindings, pipes e estilização, também instrui sobre uma melhor organização de arquivos em um projeto com Angular.
 
-## Características
-Este projeto tem como base de ensino tratar os pontos principais no momento de lidar com dados no template utilizando as melhores práticas de diretivas, bindings, pipes e estilização, também instrui sobre uma melhor organização de arquivos em um projeto com Angular.
+## :books: Características
+- Organização de projeto
+- Boas práticas de componentização
+- Funções auxiliares
+- Criação de pipes
+- Conceitos de diretivas
 
-## Demo
-https://filtro-de-usuarios-angular.vercel.app/
+## :sunglasses: Demo
+[Vercel demo](https://filtro-de-usuarios-angular-oliveiravitor32s-projects.vercel.app/)
 
-
-
+</br>
+</br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
